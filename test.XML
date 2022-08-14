@@ -2,7 +2,7 @@
 <!DOCTYPE labels SYSTEM "label.dtd">
 <labels _FORMAT="test.LBX" _QUANTITY="1">	
 	<label>
-		<variable name="Data1">https://github.com/andriantriputra</variable>
+		<variable name="Data1">https://github.com/andriantriputra/andrian_000</variable>
 		<variable name="Data2">andrian_000</variable>
 	</label>
 </labels>
